@@ -24,6 +24,5 @@ A **Java-based GUI application** for managing a library, developed as part of Re
 
 - **Exception Handling**
   - Custom exceptions like `InvalidBookException` for validation.
-  - Ensures stable executi
-   ```bash
-   git clone https://github.c
+  - Ensures stable execution
+  
